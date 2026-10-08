@@ -208,4 +208,4 @@ HiRecorder is available as a **full free version**, providing all features and u
 Unlock the full audio experience today! Download HiRecorder and start capturing your favorite soundscapes effortlessly!
 
 ---
-**Last updated:** 2026-10-07 20:28:06 UTC
+**Last updated:** 2026-10-08 00:47:14 UTC
